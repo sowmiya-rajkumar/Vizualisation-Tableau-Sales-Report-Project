@@ -1,6 +1,6 @@
 # Sales Report Using Tableau
 
-This project was part of my academic coursework on Data Vizualisation.
+This project was part of my academic coursework on Data Visualization.
 
 Leveraging Tableau, sales and profit trends were investigated to gain insights from a dataset downloaded from data.world and contains sales data for a company across various US regions that sells to large companies, distributors, and wholesalers.
 
